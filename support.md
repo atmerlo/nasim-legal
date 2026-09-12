@@ -2,7 +2,7 @@
 
 Email **[SUPPORT_EMAIL]** and a person will reply.
 
-Bugs and feature requests can also go in the [issue tracker](https://github.com/atmerlo/noor-app-legal/issues).
+Bugs and feature requests can also go in the [issue tracker](https://github.com/atmerlo/nasim-legal/issues).
 
 ## Common questions
 

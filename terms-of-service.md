@@ -6,7 +6,7 @@ title: Terms of service
 
 _Last updated: 2026-09-11._
 
-By using **[APPNAME]** you agree to these terms.
+By using **Nasim** you agree to these terms.
 
 ## What the app is
 
