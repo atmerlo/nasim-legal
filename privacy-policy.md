@@ -29,6 +29,7 @@ _Last updated: 2026-09-11. Effective for app version 1.0._
 | Emotional check-ins (the feeling you select) | To recommend a session and show you your own history | Supabase |
 | Sessions you have completed and when | Streak and progress | Supabase |
 | Journal entries: reflections and duas you write | They are yours to re-read | Supabase |
+| Product events: which onboarding steps you finished, sessions started and completed, whether the paywall was shown | To see where people get stuck and fix it. Never free text, never shared. | Supabase, our own database |
 
 Journal entries are stored as you wrote them. They are protected by row-level security so only your signed-in account can read them, and encrypted in transit. Staff do not read journal entries.
 
@@ -38,7 +39,7 @@ Journal entries are stored as you wrote them. They are protected by row-level se
 - **Your photo library.** If you add a profile photo, you choose it through the system picker, which hands the app only that one image. The app never receives access to your library.
 - **Contacts, microphone, camera.** The app does not request them.
 - **Advertising identifiers or cross-app tracking.** None.
-- **Usage analytics.** The app contains no third-party analytics SDK.
+- **Third-party analytics.** The app contains no analytics or advertising SDK. The product events above go only to our own database.
 
 ## Who else touches your data
 
@@ -46,6 +47,7 @@ Journal entries are stored as you wrote them. They are protected by row-level se
 - **Sanity** hosts the content you read (sessions, series). It does not receive any information about you.
 - **Google**, only if you choose "Continue with Google". Google's own privacy policy applies to that sign-in.
 - **Apple**, for App Store purchases if you subscribe. We never see your payment details.
+- **Sentry**, only if crash reporting is enabled in a release: when the app crashes, a technical error report (stack trace, device model, OS version, app version) is sent so we can fix it. It contains no account details, no location, and no journal text.
 
 There are no other recipients.
 
