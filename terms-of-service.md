@@ -46,4 +46,4 @@ These terms are governed by the laws of [JURISDICTION].
 
 ## Contact
 
-[SUPPORT_EMAIL]
+https://atmerlo.github.io/nasim-legal/support

@@ -56,7 +56,7 @@ There are no other recipients.
 - **Export.** Profile → Export my data produces a complete JSON copy of everything above.
 - **Delete.** Profile → Delete account permanently removes your account and all associated data, including your profile photo. This is immediate and irreversible. It is not tied to your subscription status.
 - **Correct.** Edit your name, photo, and reminder from Profile → Edit.
-- If you are in the EU, UK, or a jurisdiction with similar rights, the export and delete tools above satisfy access and erasure requests. For anything else, email the address below.
+- If you are in the EU, UK, or a jurisdiction with similar rights, the export and delete tools above satisfy access and erasure requests. For anything else, use the support page below.
 
 ## Children
 
@@ -68,4 +68,4 @@ If this policy changes materially we will show a notice in the app before the ch
 
 ## Contact
 
-[SUPPORT_EMAIL]
+Questions about this policy go through the support page: https://atmerlo.github.io/nasim-legal/support
