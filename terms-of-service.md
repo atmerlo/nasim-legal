@@ -42,7 +42,7 @@ The service is provided as-is. To the extent permitted by law we are not liable 
 
 ## Governing law
 
-These terms are governed by the laws of [JURISDICTION].
+These terms are governed by the laws of the State of Delaware, United States.
 
 ## Contact
 
