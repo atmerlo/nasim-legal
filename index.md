@@ -5,3 +5,4 @@ A daily practice built around the Quran, Sunnah, and reflection. Tell the app ho
 - [Privacy policy](privacy-policy)
 - [Terms of service](terms-of-service)
 - [Support](support)
+- [Delete your account](delete-account)

@@ -6,7 +6,7 @@ title: Terms of service
 
 _Last updated: 2026-09-11._
 
-By using **Nasim** you agree to these terms.
+By using **Nasim**, operated by Imperium Advisors, LLC ("we"), you agree to these terms.
 
 ## What the app is
 

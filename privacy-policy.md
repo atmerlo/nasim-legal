@@ -4,7 +4,7 @@ title: Privacy policy
 
 # Privacy Policy
 
-**Nasim** ("the app", "we") is a daily Islamic spiritual practice app. This policy explains what we collect, why, and what we will never do. It is written to be read, not skimmed.
+**Nasim** ("the app") is a daily Islamic spiritual practice app operated by Imperium Advisors, LLC ("we"). This policy explains what we collect, why, and what we will never do. It is written to be read, not skimmed.
 
 _Last updated: 2026-09-11. Effective for app version 1.0._
 
