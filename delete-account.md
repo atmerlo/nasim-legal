@@ -15,7 +15,7 @@ You can delete your account and everything in it from inside the app, at any tim
 3. Scroll to **Account** and tap **Delete account**.
 4. Confirm. Deletion is immediate and cannot be undone.
 
-If you cannot sign in to reach that screen, contact us through the [support page](support) and we will delete the account for you within 30 days.
+If you cannot sign in to reach that screen, email **nasimsupport@gmail.com** from the address on the account and we will delete it for you within 30 days.
 
 ## What is deleted
 

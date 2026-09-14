@@ -1,6 +1,6 @@
 # Support
 
-Open an [issue](https://github.com/atmerlo/nasim-legal/issues) and a person will reply. There is no support email; the issue tracker is faster and keeps answers where others can find them.
+Email **nasimsupport@gmail.com** and a person will reply. You can also open an [issue](https://github.com/atmerlo/nasim-legal/issues) for bugs and feature requests.
 
 ## Common questions
 

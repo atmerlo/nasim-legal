@@ -46,4 +46,4 @@ These terms are governed by the laws of the State of Delaware, United States.
 
 ## Contact
 
-https://atmerlo.github.io/nasim-legal/support
+nasimsupport@gmail.com · https://atmerlo.github.io/nasim-legal/support
